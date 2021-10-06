@@ -17,9 +17,7 @@ function Header() {
     return (
         <div className="header">
            <Link className='header_logoLink' to='/'>
-             <img className='header_logo' 
-               src="https://governmentjobswork.com/wp-content/uploads/2020/10/Amazon-Jobs.png"
-               alt="" />
+             <h1>DEVEN</h1>
            </Link>
             <div className='header_search'>
                 <input className='header_searchInput' type='text' />
