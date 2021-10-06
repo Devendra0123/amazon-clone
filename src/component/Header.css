@@ -6,6 +6,7 @@
     align-items: center;
     background-color: rgb(14, 13, 13);
     z-index: 99;
+    padding: 20px 0;
 }
 
 .header_logoLink{
