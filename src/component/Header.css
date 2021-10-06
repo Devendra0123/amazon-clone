@@ -69,5 +69,9 @@
 .header_search{
     display: none;
 }
-
+.header{
+    position: sticky;
+    top: 20px;
+    
+}
 }
