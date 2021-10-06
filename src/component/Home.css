@@ -22,3 +22,12 @@
     margin-left: 5px;
     margin-right: 5px;
 }
+
+@media only screen and (max-width: 768px){
+.home_row{
+    flex-direction:column;
+    align-items:center;
+}
+
+
+}
