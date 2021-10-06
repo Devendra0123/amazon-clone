@@ -50,6 +50,12 @@
 }
 
 @media only screen and (max-width:500px){
+    .payment{
+    width:100%;
+}
+    .payment_container{
+    width:100%;
+    }
     .payment_items{
     width:100%;
     }
@@ -59,6 +65,7 @@
         align-items: center;
         justify-content:center;
         margin:0;
+        padding:5px;
     }
 
 }
