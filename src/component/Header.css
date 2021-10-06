@@ -12,6 +12,11 @@
     text-decoration: none;
 }
 
+.header_logoLink > h1{
+   color:pink;
+}
+
+
 .header_logo{
     object-fit: contain;
     width: 100px;
