@@ -48,3 +48,23 @@
     border-color: #a88734 #9c7e31 #846a29;
     color: #111;
 }
+
+@media only screen and (max-width:500px){
+    .payment_items{
+    width:100%;
+    }
+    .payment_section{
+        width:100%;
+    flex-direction:column;
+        align-items: center;
+        justify-content:center
+    }
+
+}
+
+
+
+
+
+
+
